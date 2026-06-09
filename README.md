@@ -3,6 +3,9 @@
 A responsive, static personal profile website based on Dr. Yehui Hu's CV and
 doctoral research.
 
+Public website:
+[https://gracehuyehui-sys.github.io/yehui-hu-profile/](https://gracehuyehui-sys.github.io/yehui-hu-profile/)
+
 ## GitHub Pages
 
 This repository is ready to publish from the `main` branch root with GitHub
